@@ -1,2 +1,3 @@
 # 104_Datacore
-104th Datacore Website
+
+This repo is for the 104th Datacore Webpage.
